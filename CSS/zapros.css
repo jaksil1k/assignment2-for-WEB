@@ -73,6 +73,12 @@ article{
 #div1{
 	padding-left: 70px;
 }
+.photo{
+	float: left;
+}
+.textt{
+	margin-left: 60px;
+}
 .card-body ol{
 	list-style-type: disc;
 }
